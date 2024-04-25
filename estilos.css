@@ -1,7 +1,9 @@
+body{
+    text-align: center;
+}
 h1{
   font-size: 100px ;  
   color: darkorchid;
-
 }
 h2{
     font-size: 50px;
@@ -13,16 +15,14 @@ h3{
 
 }
 h4{
-    font-size: 20px;
+    font-size: 40px;
     
 }
 h5{
-    font-size: 20px;
+    font-size: 40px;
 }
 h6{
-    font-size: 20px;
+    font-size: 40px;
     
 }
-body{background-image:https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.pngtree.com%2Ffree-backgrounds-photos%2Fdoces-e-bolos&psig=AOvVaw3TBa1UAbnAw60s5vky1v3e&ust=1714133145669000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDx2biq3YUDFQAAAAAdAAAAABAR;
 
-}
